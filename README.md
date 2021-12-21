@@ -1,9 +1,6 @@
 ### Hi there 👋, My name is Chike 
 
 <!--
-**chikeokwudiafor/chikeokwudiafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 I am a Data Scientist / Data Analyst and I just finished my Masters degree in Analytics and Information Management. This degree transformed me from a business major with no code experience to someone who thrives off data and knowing more about it. I love using data to discover patterns and tell amazing stories with them. It allows me to express my creativity, my critical thinking and my willigness to solve problems. 
 
 Skills: Python | SQL| Power BI| Tableau | Machine Learning | Excel
@@ -22,3 +19,5 @@ Skills: Python | SQL| Power BI| Tableau | Machine Learning | Excel
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chikeokwudiafor) 
 
 ![Profile views](https://gpvc.arturio.dev/chikeokwudiafor) 
+
+**chikeokwudiafor/chikeokwudiafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
