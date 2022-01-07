@@ -11,7 +11,7 @@ Skills: Python | SQL| Power BI| Tableau | Machine Learning | Excel
 
 [![Linkedin Badge](https://img.shields.io/badge/-chikeokwudiafor-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chike-okwudiafor/)](https://www.linkedin.com/in/chike-okwudiafor/) 
 
-[![My Tableau Portfolio and projects](https://img.shields.io/badge/-tableau porfolio0072b1style=flat&logo=Tableau&logoColor=&link=https://public.tableau.com/app/profile/chike.okwudiafor/)](https://public.tableau.com/app/profile/chike.okwudiafor/)
+[![My Tableau Portfolio and projects](https://img.shields.io/badge/-tableau-porfolio-0072b1style=flat&logo=Tableau&logoColor=&link=https://public.tableau.com/app/profile/chike.okwudiafor/)](https://public.tableau.com/app/profile/chike.okwudiafor/)
 
 [![Chike Okwudiafor's GitHub stats](https://github-readme-stats.vercel.app/api?username=chikeokwudiafor)](https://github.com/chikeokwudiafor/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chikeokwudiafor&layout=compact)](https://github.com/chikeokwudiafor/github-readme-stats) 
