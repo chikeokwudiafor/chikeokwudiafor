@@ -3,7 +3,6 @@ I have a keen interest in data analysis and data science with over two years of 
 
 Skills: Python | SQL| Power BI| Tableau | Machine Learning | Excel
 
-- 🤔 I’m currently looking for new job opportunities
 - 🌱 I’m learning more about creating meaningful dashboards on Tableau
 - 🔭 I’m constantly improving my Data Science and Data Analytic skills
 - 😄 Pronouns: He/Him
