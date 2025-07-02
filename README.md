@@ -1,23 +1,40 @@
-### Hi there 👋, My name is Chike 
-I have a keen interest in data analysis and data science with over two years of experience translating raw data into actionable insights that drive confident decisions. I am at my best creating meaningful metrics, visualizations, statistical models and interactive dashboards.  I just finished my Masters degree in Analytics and Information Management. This degree transformed me from a business major with no code experience to someone who thrives off data and knowing more about it.  I love using data to discover patterns and tell amazing stories with them. It allows me to express my creativity, my critical thinking and my willigness to solve problems. 
+### Hi there 👋, I'm Chike
 
-Skills: Python | SQL| Power BI| Tableau | Machine Learning | Excel
+I'm a data analyst and creative technologist with 3+ years of experience transforming messy data into clean dashboards, insights, and smart tools. From SQL and Tableau to Python and ML, I build systems that bridge analytics and creativity whether that’s optimizing GTM strategy at Zendesk or building an AI-generated content detector from scratch.
 
-- 🌱 I’m learning more about creating meaningful dashboards on Tableau
-- 🔭 I’m constantly improving my Data Science and Data Analytic skills
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Photography 📸 is a fun hobby: www.ccjophotography.com 
+After earning my Master’s in Analytics and Information Management, I shifted from business into full-on data science and development. Since then, I’ve worked on internal sales tools, predictive modeling, AI feedback loops, cultural exhibitions, and more.
 
-[![Linkedin Badge](https://img.shields.io/badge/-chikeokwudiafor-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chike-okwudiafor/)](https://www.linkedin.com/in/chike-okwudiafor/) 
+Right now, I'm focused on building an AI detection platform (text, image, video) powered by pattern recognition, live feedback, and ensemble models. while  working at Zendesk as a data analyst full time and still telling visual stories through photography and digital art.
 
-[![My Tableau Portfolio and projects](https://img.shields.io/badge/-tableau-porfolio-0072b1style=flat&logo=Tableau&logoColor=&link=https://public.tableau.com/app/profile/chike.okwudiafor/)](https://public.tableau.com/app/profile/chike.okwudiafor/)
+---
 
-[![Chike Okwudiafor's GitHub stats](https://github-readme-stats.vercel.app/api?username=chikeokwudiafor)](https://github.com/chikeokwudiafor/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chikeokwudiafor&layout=compact)](https://github.com/chikeokwudiafor/github-readme-stats) 
+🧠 **Skills:**  
+Python · SQL · Tableau · Power BI · Machine Learning · Data Storytelling · Excel 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chikeokwudiafor) 
+🛠 **Currently Building:**  
+An AI-generated content detector with real-time feedback + future model integration
 
-![Profile views](https://gpvc.arturio.dev/chikeokwudiafor) 
+📸 **Creative Outlet:**  
+[ccjophotography.com](https://ccjophotography.com)
+
+🎯 **Fun Fact:**  
+I once built a cinematic universe starring a raptor with a rocket launcher. Long story.
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chikeokwudiafor-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chike-okwudiafor/)  
+[![Tableau Portfolio](https://img.shields.io/badge/Tableau-Portfolio-orange?logo=Tableau&style=flat)](https://public.tableau.com/app/profile/chike.okwudiafor/)  
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chikeokwudiafor&theme=dark&hide_border=true)  
+![Chike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chikeokwudiafor&show_icons=true&hide_border=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chikeokwudiafor&layout=compact&theme=dark&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=chikeokwudiafor&color=blue)
+
 <!--
-
 **chikeokwudiafor/chikeokwudiafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
