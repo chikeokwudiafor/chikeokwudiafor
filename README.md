@@ -2,7 +2,7 @@
 
 I'm a data analyst and creative technologist with 3+ years of experience transforming messy data into clean dashboards, insights, and smart tools. From SQL and Tableau to Python and ML, I build systems that bridge analytics and creativity whether that’s optimizing GTM strategy at Zendesk or building an AI-generated content detector from scratch.
 
-After earning my Master’s in Analytics and Information Management, I shifted from business into full-on data science and development. Since then, I’ve worked on internal sales tools, predictive modeling, AI feedback loops, cultural exhibitions, and more.
+After earning my Master’s in Analytics and Information Management, I shifted from business into full-on data science and development. Since then, I’ve worked on internal sales tools, predictive modeling, AI feedback loops, and more.
 
 Right now, I'm focused on building an AI detection platform (text, image, video) powered by pattern recognition, live feedback, and ensemble models. while  working at Zendesk as a data analyst full time and still telling visual stories through photography and digital art.
 
