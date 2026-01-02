@@ -17,9 +17,6 @@ An AI-generated content detector with real-time feedback + future model integrat
 📸 **Creative Outlet:**  
 [ccjophotography.com](https://ccjophotography.com)
 
-🎯 **Fun Fact:**  
-I once built a cinematic universe starring a raptor with a rocket launcher. Long story.
-
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chikeokwudiafor-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chike-okwudiafor/)  
