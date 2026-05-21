@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Chike
 
-I'm a data analyst and creative technologist with 3+ years of experience transforming messy data into clean dashboards, insights, and smart tools. From SQL and Tableau to Python and ML, I build systems that bridge analytics and creativity whether that’s optimizing GTM strategy at Zendesk or building an AI-generated content detector from scratch.
+I'm a data analyst and creative technologist with 5+ years of experience transforming messy data into clean dashboards, insights, and smart tools. From SQL and Tableau to Python and ML, I build systems that bridge analytics and creativity whether that’s optimizing GTM strategy at Zendesk or building an AI-generated content detector from scratch.
 
 After earning my Master’s in Analytics and Information Management, I shifted from business into full-on data science and development. Since then, I’ve worked on internal sales tools, predictive modeling, AI feedback loops, and more.
 
