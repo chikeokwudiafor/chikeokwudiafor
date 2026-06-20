@@ -1,37 +1,28 @@
-### Hi there 👋, I'm Chike
+# Hi, I'm Chike 👋
 
-I'm a data analyst and creative technologist with 5+ years of experience transforming messy data into clean dashboards, insights, and smart tools. From SQL and Tableau to Python and ML, I build systems that bridge analytics and creativity whether that’s optimizing GTM strategy at Zendesk or building an AI-generated content detector from scratch.
+**Senior Data Analyst / Analytics Engineer** with 5+ years turning messy data into decisions teams act on.
 
-After earning my Master’s in Analytics and Information Management, I shifted from business into full-on data science and development. Since then, I’ve worked on internal sales tools, predictive modeling, AI feedback loops, and more.
+I spent the last four years on **Zendesk's Enterprise Data & Analytics** team — working across go-to-market, finance, product, and customer success, building the predictive dashboards leadership ran on and the production data models behind real revenue. I work the full analytics stack, from SQL and dbt modeling through to delivery in Tableau and Looker.
 
-Right now, I'm focused on building an AI detection platform (text, image, video) powered by pattern recognition, live feedback, and ensemble models. while  working at Zendesk as a data analyst full time and still telling visual stories through photography and digital art.
+🔭 **Open to new roles** — remote, and open to H1B sponsorship.
 
----
+### What I've built
+- 📈 **Bullseye** — a predictive GTM dashboard and the large dbt model suite behind it; helped lift AE win rates from **50% → 80%** on targeted accounts
+- ☁️ **GCP → Snowflake migration** — led the analytics side: **35%** faster queries, zero reporting downtime
+- 💰 **Pricing strategy model** — a Python/Snowflake scenario model behind a **$4.5M** uplift, the company's first price increase in seven years
+- 🧩 **Consumption SKU analytics** — 6 production dbt models powering new product launches
+- 🤖 **AI Slack assistant** — an internal bot answering the team's BI and data questions, saving sprint time
 
-🧠 **Skills:**  
-Python · SQL · Tableau · Power BI · Machine Learning · Data Storytelling · Excel 
+### Tech
+`SQL` · `dbt` · `Snowflake` · `BigQuery` · `Python` · `Tableau` · `Looker` · `Power BI`
 
-🛠 **Currently Building:**  
-An AI-generated content detector with real-time feedback + future model integration
+🎓 M.S., Analytics & Information Management — Duquesne University
 
-📸 **Creative Outlet:**  
-[ccjophotography.com](https://ccjophotography.com)
+### Beyond the data
+I tinker with passion projects — currently an AI-generated content detector (text, image, video) using pattern recognition and ensemble models — and I tell visual stories through photography and digital art.
 
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chikeokwudiafor-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chike-okwudiafor/)  
-[![Tableau Portfolio](https://img.shields.io/badge/Tableau-Portfolio-orange?logo=Tableau&style=flat)](https://public.tableau.com/app/profile/chike.okwudiafor/)  
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chikeokwudiafor&theme=dark&hide_border=true)  
-![Chike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chikeokwudiafor&show_icons=true&hide_border=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chikeokwudiafor&layout=compact&theme=dark&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=chikeokwudiafor&color=blue)
-
-<!--
-**chikeokwudiafor/chikeokwudiafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### Let's connect
+🔗 **Portfolio:** https://chikeokwudiafor.github.io
+💼 **LinkedIn:** https://www.linkedin.com/in/chike-okwudiafor
+📊 **Tableau Public:** https://public.tableau.com/app/profile/chike.okwudiafor
+📷 **Photography:** https://ccjophotography.com
